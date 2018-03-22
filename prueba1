@@ -1,0 +1,7 @@
+let miNovia (nombre) => {
+
+console.log(`Mi novia se llama ${miNovia}`);
+
+};
+
+miNovia("Carol");
